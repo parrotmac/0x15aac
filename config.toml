@@ -1,0 +1,29 @@
+baseURL = 'https://isaacparker.co/'
+languageCode = 'en-us'
+title = '0x15AAC'
+theme = "pickles"
+copyright = '&copy; 2022 Isaac Parker'
+
+# enableGitInfo = true
+
+
+[params]
+paginate = 10
+hideReadingTime = true
+twitter = "parrotmac"
+github = "parrotmac"
+author = "Isaac Parker"
+authorWebsite = "https://isaacparker.co"
+contact = "mailto:parrotmac@gmail.com"
+bio = "A maker"
+subtitle = "Hack it, break it, fix it."
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
