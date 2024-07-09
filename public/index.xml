@@ -1,44 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>0x15AAC</title>
-    <link>https://isaacparker.co/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 0x15AAC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Isaac Parker</copyright>
-    <lastBuildDate>Sat, 23 Apr 2022 10:44:12 -0600</lastBuildDate><atom:link href="https://isaacparker.co/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024 Isaac Parker</copyright>
+    <lastBuildDate>Sat, 23 Apr 2022 11:25:55 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Site, First Post, What&#39;s New?</title>
-      <link>https://isaacparker.co/posts/new-site-first-post-whats-new/</link>
+      <link>http://localhost:1313/posts/new-site-first-post-whats-new/</link>
       <pubDate>Sat, 23 Apr 2022 10:44:12 -0600</pubDate>
-      
-      <guid>https://isaacparker.co/posts/new-site-first-post-whats-new/</guid>
+      <guid>http://localhost:1313/posts/new-site-first-post-whats-new/</guid>
       <description>Hey there internet friend! I decided to re-launch my site using Hugo. After writing a little blog site in 2017 and then promptly forgetting about it, I&amp;rsquo;m back to actually be productive in writing posts :D
 It turns out that running a full VM with a PostgreSQL database and multiple Docker containers may not be necessary to serve highly static content!
 K.I.S.S.</description>
     </item>
-    
     <item>
       <title>About Isaac Parker</title>
-      <link>https://isaacparker.co/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://isaacparker.co/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Email Me: parrotmac@gmail.com
 About Me I like to make things! At the moment, some of my interests (in no particular order) include&amp;hellip;
- Electronics (PCB Design, Embedded Communication Protocols)  CAN Bus :heart:   Operating System &amp;amp; Networking Internals (Linux, FreeBSD, [Writing an OS in Rust series][https://os.phil-opp.com/])  iptables -&amp;gt; nftables eBPF UEFI Wireguard Filesystems (ZFS)   Self-hosting  Proxmox   CNC Machining (Wood, Soft Metals) 3D Printing (PLA, ABS) Welding (a grinder and paint makes me the welder I ain&amp;rsquo;t!</description>
+Electronics (PCB Design, Embedded Communication Protocols) CAN Bus :heart: Operating System &amp;amp; Networking Internals (Linux, FreeBSD, Writing an OS in Rust series) iptables -&amp;gt; nftables eBPF UEFI Wireguard Filesystems (ZFS) Self-hosting Proxmox CNC Machining (Wood, Soft Metals) 3D Printing (PLA, ABS) Welding (a grinder and paint makes me the welder I ain&amp;rsquo;t!</description>
     </item>
-    
     <item>
       <title>A (Not So) Brief Overview Of This Site&#39;s Setup</title>
-      <link>https://isaacparker.co/posts/ported-first-post/</link>
+      <link>http://localhost:1313/posts/ported-first-post/</link>
       <pubDate>Tue, 14 Nov 2017 22:40:00 -0600</pubDate>
-      
-      <guid>https://isaacparker.co/posts/ported-first-post/</guid>
+      <guid>http://localhost:1313/posts/ported-first-post/</guid>
       <description>Editor&amp;rsquo;s Note: This was originally posted on my previous blog platform. While building that site was a great personal learning experience, it wasn&amp;rsquo;t totally practical to maintain and has since been replaced.
- It seems only fitting to have the first post of a self-built blog to be about, well, the blog! I&amp;rsquo;ll list the technologies I used and why I chose them. In a later post I&amp;rsquo;ll cover details on how I put them together.</description>
+It seems only fitting to have the first post of a self-built blog to be about, well, the blog! I&amp;rsquo;ll list the technologies I used and why I chose them. In a later post I&amp;rsquo;ll cover details on how I put them together.</description>
     </item>
-    
   </channel>
 </rss>

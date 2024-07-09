@@ -1,8 +1,8 @@
 baseURL = 'https://isaacparker.co/'
 languageCode = 'en-us'
 title = '0x15AAC'
-theme = "pickles"
-copyright = '&copy; 2022 Isaac Parker'
+theme = "PaperMod"
+copyright = '&copy; 2024 Isaac Parker'
 
 # enableGitInfo = true
 

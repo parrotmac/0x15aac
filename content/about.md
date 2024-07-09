@@ -10,7 +10,7 @@ Email Me: parrotmac@gmail.com
 I like to make things! At the moment, some of my interests (in no particular order) include...
 - Electronics (PCB Design, Embedded Communication Protocols)
   - CAN Bus :heart:
-- Operating System & Networking Internals (Linux, FreeBSD, [Writing an OS in Rust series][https://os.phil-opp.com/])
+- Operating System & Networking Internals (Linux, FreeBSD, [Writing an OS in Rust series](https://os.phil-opp.com/))
   - iptables -> nftables
   - eBPF
   - UEFI

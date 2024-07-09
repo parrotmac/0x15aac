@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://isaacparker.co/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-04-23T11:25:55-06:00</lastmod>
   </url><url>
-    <loc>https://isaacparker.co/posts/new-site-first-post-whats-new/</loc>
+    <loc>http://localhost:1313/posts/new-site-first-post-whats-new/</loc>
     <lastmod>2022-04-23T10:44:12-06:00</lastmod>
   </url><url>
-    <loc>https://isaacparker.co/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2022-04-23T11:25:55-06:00</lastmod>
   </url><url>
-    <loc>https://isaacparker.co/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2022-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://isaacparker.co/posts/ported-first-post/</loc>
+    <loc>http://localhost:1313/posts/ported-first-post/</loc>
     <lastmod>2022-04-23T11:25:55-06:00</lastmod>
   </url><url>
-    <loc>https://isaacparker.co/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://isaacparker.co/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
